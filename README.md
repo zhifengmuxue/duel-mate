@@ -1,4 +1,4 @@
-# Duel Mate
+# Duel Mate 游戏王线下对战工具
 
 > 🎮 一款使用 [uni-app](https://uniapp.dcloud.io/) 构建的跨平台应用，用于实现双人对战、比分记录、规则管理等功能。
 
