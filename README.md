@@ -82,7 +82,3 @@ npm run build:%PLATFORM%
 
 MIT License
 
----
-
-> Made with ❤️ by Duel Mate 开发团队
-```
